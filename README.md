@@ -2,7 +2,7 @@
 
 ## 概要
 
-`Install-epms-R5-Ubuntu` は、Ubuntu 上に EPMS (メールサーバシステム) をインストールするためのセットアップパッケージです。
+`Install-epms-R5-Ubuntu` は、Ubuntu 上に E-POST Mail Server V (メールサーバシステム) をRasberry pi 5 + Ubuntu Server へインストールするためのセットアップパッケージです。
 
 以下の機能を提供します。
 
